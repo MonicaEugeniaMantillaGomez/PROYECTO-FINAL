@@ -1,0 +1,145 @@
+{
+    "Barra": {
+        "logo": "Portaf-olio.",
+        "menu": {
+            "Inicio": "#home",
+            "Acerca de mi": "#about",
+            "Mis servicios": "#services",
+            "Talentos": "#skills",
+            "Mi equipo": "#teams",
+            "Contactame": "#contact"
+        }
+    },
+    "home": {
+        "saludo": "Hola, mi nombre es",
+        "nombre": "Monica Mantilla",
+        "Soy una": "",
+        "ocupaciones": [
+            "Diseñadora grafica",
+            "Programadora",
+            "Profesora",
+            "Freelance",
+            "Madre"
+        ],
+        "Hagamos equipo": "#"
+    },
+    "about": {
+        "tituloabout": "Acerca de mi",
+        "subtituloabout": "Quien soy yo",
+        "conectorSoyAbout": "Soy Monica y soy",
+        "ocupacionesabout": [
+            "Diseñadora grafica",
+            "Programadora",
+            "Profesora",
+            "Freelance",
+            "Madre"
+        ],
+        "Descripcionabout": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui numquam laboriosam architecto! Nostrum saepe porro deleniti quis. Ea totam quod ipsam nobis. Corporis laboriosam, ratione omnis deleniti itaque a ut?",
+        "Descarga HV": "#"
+    },
+    "services": {
+        "tituloservices": "Mis servicios",
+        "subtituloservices": "Areas de trabajo",
+        "card": [
+            {
+                "icono": "fas fa-paint-brush",
+                "titulo": "diseño editorial",
+                "descripcion": "Una breve descripción del servicio diseño editorial"
+            },
+            {
+                "icono": "fas fa-chart-line",
+                "titulo": "publicidad",
+                "descripcion": "Una breve descripción del servicio publicidad"
+            },
+            {
+                "icono": "fas fa-code",
+                "titulo": "Diseño web",
+                "descripcion": "Una breve descripción del servicio Diseño web"
+            }
+        ]
+    },
+    "skills": {
+        "tituloSkills": "Mis talentos",
+        "subtituloSkills": "Destrezas",
+        "intertituloSkills": "Mis trabajos creativos",
+        "descripcionSkills": "Una breve descripción de Skills",
+        "Saber +": "#",
+        "bars": {
+            "Indesign": "95%",
+            "Photoshop": "90%",
+            "Illustrator": "80%",
+            "Millenium": "80%",
+            "Programacion": "5%"
+        }
+    },
+    "teams": {
+        "tituloteams": "Mi equipo",
+        "subtituloteams": "Quienes me inspiran y ayudan",
+        "cardteams": [
+            {
+                "img": "imagen/profile-1.jpg",
+                "name": "Bernardo Quintero",
+                "degree": "Ingeniero y diseñador"
+            },
+            {
+                "img": "",
+                "name": "Ana Maria Quintero",
+                "degree": "Traductora y actriz"
+            },
+            {
+                "img": "",
+                "name": "Orlando Acevedo",
+                "degree": "Programador y docente"
+            },
+            {
+                "img": "",
+                "name": "Monica Vega",
+                "degree": "Artista y docente"
+            },
+            {
+                "img": "",
+                "name": "Fernanda Sandoval",
+                "degree": "Periodista"
+            },
+            {
+                "img": "",
+                "name": "Andres Valbuena",
+                "degree": "Animador digital"
+            }
+        ]
+    },
+    "contact": {
+        "titulocontact": "Contactame",
+        "subtitulocontact": "Un placer poder servirte",
+        "intertitulocontact": "Mi compromiso es ayudar",
+        "Descripcioncontact": "Descripcion corta",
+        "informacioncontact": [
+            {
+                "icon": "fas fa-user",
+                "valu": "jorge a. silva"
+            },
+            {
+                "icon": "fas fa-map-marker-alt",
+                "valu": "Bucaramanga | Colombia"
+            },
+            {
+                "icon": "fas fa-envelope",
+                "valu": "jorgesilvacreativo@gmail.com"
+            }
+        ],
+        "fields": {
+            "titulofields": "contactame",
+            "textfieldsinput": "tu nombre",
+            "emailfieldsinput": "tu correo",
+            "asuntofieldsinput": "asunto",
+            "texareafieldsinput": "mensaje",
+            "botonEnviarmensaje": "#"
+        }
+    },
+    "footer": {
+        "textofooter": "Desarrollado por",
+        "creadorfooter": "MonicaMantilla",
+        "iconofooter": "far fa-cpyright",
+        "Advertenciafooter": "2022 Todos los derechos reservados."
+    }
+}
